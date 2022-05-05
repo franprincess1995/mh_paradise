@@ -1,0 +1,822 @@
+,city,mh_spaces
+128,Canyon Lake,1.0
+33,Aromas,1.0
+448,Magalia,1.0
+594,Point Arena,1.0
+420,Loch Lomond,1.0
+602,Prattville,1.0
+330,Holt,1.0
+58,Beckwourth,1.0
+686,Scotia,1.0
+767,Vernalis,1.0
+223,Duncans Mills,1.0
+189,Creston,1.0
+505,Myers Flat,1.0
+109,Cadiz,1.0
+393,Lakeshore,2.0
+51,Banta,2.0
+215,Dorris,2.0
+17,Albion,2.0
+702,Silverado,2.0
+76,Biggs,2.0
+557,Paicines,2.0
+5,177 Leonard Ave,2.0
+4,1/2 Mi West Of Big Bar,2.0
+9,8 Mi E Of Taft,2.0
+252,Fawnskin,2.0
+84,Bonita,2.0
+214,Dorrington,2.0
+176,Copperopolis,3.0
+7,3 Mi E Of Williams,3.0
+568,Parlier,3.0
+520,Nicolaus,3.0
+797,Wildwood,3.0
+59,Belden,4.0
+613,Redcrest,4.0
+367,Keyes,4.0
+78,Blairsden,4.0
+192,Crows Landing,4.0
+439,Lotus,4.0
+135,Cartago,4.0
+152,Chilcoot,4.0
+187,Crescent Mills,4.0
+794,Whitmore,5.0
+768,Victor,5.0
+265,Fort Jones,5.0
+240,Elk Creek,5.0
+338,Hwy 113,5.0
+606,Rainbow,5.0
+356,Jenner,5.0
+463,Meadow Valley,6.0
+471,Meridian,6.0
+603,Quail Valley,6.0
+146,Chalfant Valley,6.0
+793,Whitethorn,6.0
+118,Calpine,6.0
+784,Weott,7.0
+477,Milford,7.0
+720,Stonyford,7.0
+697,Shaver Lake,7.0
+491,Montgomery Creek,7.0
+86,Boonville,7.0
+116,Callahan,8.0
+304,Guerneville,8.0
+3,1/2 Mi N Trinity Center,8.0
+219,Downieville,8.0
+144,Cedarville,8.0
+579,Philo,9.0
+216,Dos Palos,9.0
+748,Trona,9.0
+156,Chowchilla,9.0
+117,Calpella,9.0
+563,Palo Cedro,9.0
+360,June Lake,9.0
+585,Piru,9.0
+678,Santa Monica,10.0
+445,Lytle Creek,10.0
+446,Mad River,10.0
+288,Glenn,10.0
+147,Challenge,10.0
+626,Ripon,11.0
+220,Doyle,11.0
+475,Midpines,11.0
+66,Benton,11.0
+278,Garberville,12.0
+75,Big Sur,12.0
+2,1/2 M/W Of Shingletown,12.0
+600,Potter Valley,12.0
+138,Castella,12.0
+451,Manchester,12.0
+544,Oregon House,12.0
+340,Hyampom,12.0
+630,Robbins,13.0
+254,Ferndale,13.0
+374,La Grange,13.0
+709,Somes Bar,13.0
+169,Cohasset,14.0
+453,Manton,14.0
+744,Topaz,14.0
+650,San Ardo,14.0
+290,Gonzales,14.0
+1,#9,14.0
+407,Leona Valley,15.0
+466,Mendocino,15.0
+6,2Mi N Of Milford,15.0
+480,Mira Loma,15.0
+488,Monte Rio,15.0
+424,Loleta,15.0
+682,Santa Ynez,15.0
+113,California Hot Springs,15.0
+272,French Camp,15.0
+93,Boyes Springs,15.0
+321,Helena,15.0
+259,Forbestown,15.0
+548,Oro Grande,15.0
+155,Chiriaco Summit,16.0
+373,Knights Landing,16.0
+413,Litchfield,16.0
+692,Seiad Valley,16.0
+56,Baywood Park,16.0
+41,Avalon,17.0
+481,Miranda,17.0
+282,Gazelle,17.0
+362,Kagel Canyon,17.0
+307,Haddad,18.0
+85,Bonsall,18.0
+68,Bieber,18.0
+136,Cassel,18.0
+95,Branscomb,18.0
+31,Arbuckle,18.0
+535,Ocotillo,19.0
+701,Shoshone,19.0
+813,Wrightwood,19.0
+659,San Juan Bautista,19.0
+190,Cromberg,19.0
+73,Big Oak Flat,19.0
+401,Laytonville,19.0
+715,Space #1,19.0
+545,Orick,20.0
+260,Forest Knolls,20.0
+384,Lake Almanor,20.0
+638,Round Mountain,20.0
+332,Hood,20.0
+641,Ruth,20.0
+398,Larkspur,20.0
+230,East Shore,20.0
+376,La Honda,20.0
+339,Hwy 96,20.0
+352,Jacumba,20.0
+261,Forest Ranch,20.0
+410,Likely,20.0
+13,Adin,20.0
+754,Twain,20.0
+46,Badger,20.0
+441,Loyalton,21.0
+337,Huron,21.0
+69,Big Bar,21.0
+691,Seeley,21.0
+388,Lake Hughes,21.0
+734,Tecopa,21.0
+284,Gerber,21.0
+464,Meadow Vista,22.0
+130,Carlotta,22.0
+106,Burnt Ranch,22.0
+474,Middletown,23.0
+42,Avenal,23.0
+581,Piedra,24.0
+578,Phillipsville,24.0
+83,Bodfish,24.0
+773,Walker,24.0
+336,Huntington Park,24.0
+52,Bard,24.0
+478,Mill Creek,24.0
+457,Martell,24.0
+74,Big Pine,24.0
+632,Rodeo,24.0
+628,Riverdale,25.0
+490,Monterey Park,25.0
+582,Pilot Hill,25.0
+210,Dillon Beach,25.0
+698,Sheridan,25.0
+162,Clearlake Park,25.0
+648,Salyer,25.0
+299,Grimes,26.0
+333,Hornbrook,26.0
+459,Maxwell,26.0
+473,Mi Wuk Village,27.0
+142,Catheys Valley,27.0
+363,Kelsey,27.0
+89,Bostonia,27.0
+539,Olivehurst,28.0
+798,Williams,28.0
+783,Weimar,29.0
+501,Mountain Center,30.0
+572,Pearblossom,30.0
+359,Junction City,31.0
+355,Janesville,31.0
+275,Friant,32.0
+508,N San Juan,32.0
+82,Bodega Bay,32.0
+263,Forestville,33.0
+72,Big Bend,33.0
+283,Georgetown,33.0
+574,Penngrove,34.0
+212,Dixon,34.0
+467,Mendota,35.0
+810,Woodlake,35.0
+637,Rough And Ready,35.0
+755,Twain Harte,35.0
+444,Lynwood,35.0
+361,Jurupa Valley,36.0
+310,Hamilton City,36.0
+16,Agua Dulce,37.0
+717,Springville,37.0
+168,Cobb,37.0
+341,Hydesville,37.0
+724,Summerland,38.0
+8,4 M W Of Lk Henshaw,38.0
+657,San Joaquin,38.0
+513,Newberry Springs,38.0
+770,Vinton,38.0
+733,Taylorsville,39.0
+538,Olancha,39.0
+372,Klamath River,39.0
+512,Nevada City,40.0
+90,Boulder Creek,40.0
+14,Aerial Acres,40.0
+721,Strathmore,40.0
+588,Pixley,40.0
+150,Chester,41.0
+80,Blue Lake,41.0
+695,Shasta,41.0
+787,West Point,42.0
+25,Angwin,42.0
+456,Markleeville,42.0
+291,Graeagle,42.0
+99,Bridgeport,42.0
+803,Wilton,42.0
+404,Leggett,43.0
+100,Bridgeville,43.0
+92,Box 435,43.0
+132,Carmel Valley,43.0
+591,Pleasant Hill,43.0
+247,Etna,43.0
+184,Covelo,43.0
+405,Lemon Grove,44.0
+200,Death Valley,44.0
+298,Gridley,45.0
+24,Angelus Oaks,45.0
+668,San Simeon,46.0
+460,Mcarthur,46.0
+64,Ben Lomond,46.0
+700,Shingletown,47.0
+547,Orleans,47.0
+679,Santa Nella,47.0
+328,Hinkley,47.0
+237,El Nido,47.0
+308,Halcyon,48.0
+664,San Miguel,48.0
+344,Independence,48.0
+443,Lucerne Valley,48.0
+605,Railroad Flat,48.0
+558,Palermo,49.0
+531,Oakland,49.0
+391,Lakehead,50.0
+107,Business,51.0
+229,East Quincy,51.0
+91,Boulevard,51.0
+676,Santa Margarita,52.0
+268,Fowler,52.0
+796,Wildomar,52.0
+127,Canyon Dam,52.0
+599,Potrero,54.0
+347,Inyokern,54.0
+805,Winterhaven,54.0
+320,Heber,54.0
+120,Cambria,54.0
+722,Suisun City,54.0
+270,Freedom,55.0
+778,Washington,56.0
+287,Glenhaven,56.0
+253,Felton,57.0
+732,Tahoe Vista,58.0
+196,Daggett,58.0
+238,El Sobrante,58.0
+102,Brownsville,59.0
+465,Mecca,59.0
+415,Littlerock,59.0
+124,Camptonville,59.0
+324,Hermosa Beach,60.0
+742,Three Rivers,60.0
+422,Lockwood,60.0
+577,Phelan,60.0
+792,Wheatland,60.0
+28,Anza,61.0
+101,Brisbane,61.0
+297,Greenville,62.0
+486,Montague,62.0
+302,Gualala,62.0
+323,Herlong,63.0
+222,Dulzura,63.0
+775,Walnut Grove,63.0
+317,Hayfork,63.0
+54,Bass Lake,64.0
+346,Inglewood,66.0
+312,Happy Camp,66.0
+640,Rubidoux,66.0
+108,Byron,67.0
+19,Alturas,67.0
+371,Klamath,67.0
+202,Delhi,68.0
+217,Douglas City,69.0
+234,El Dorado,70.0
+517,Newman,71.0
+522,Nipomo,71.0
+369,Kings Beach,71.0
+801,Willows,71.0
+411,Lincoln,71.0
+523,North Fork,73.0
+122,Camino,73.0
+740,Thornton,74.0
+213,Dobbins,74.0
+593,Plymouth,75.0
+319,Healdsburg,75.0
+655,San Fernando,76.0
+43,Avery,76.0
+705,Snelling,77.0
+440,Lower Lake,77.0
+747,Trinidad,80.0
+60,Bell,80.0
+207,Di Giorgio,80.0
+616,Redondo Beach,80.0
+343,Imperial Beach,81.0
+269,Frazier Park,81.0
+751,Tulelake,81.0
+303,Guatay,84.0
+395,Lakewood,84.0
+708,Somerset,84.0
+296,Greenfield,84.0
+571,Pauma Valley,84.0
+273,French Gulch,85.0
+814,Yermo,87.0
+183,Coulterville,87.0
+419,Llano,87.0
+295,Greenbrae,89.0
+246,Esparto,90.0
+806,Winters,91.0
+63,Belmont,91.0
+624,Rio Dell,92.0
+385,Lake Arrowhead,93.0
+555,Pacifica,93.0
+94,Bradley,93.0
+536,Office,93.0
+461,Mccloud,93.0
+316,Hawthorne,94.0
+390,Lake View Terrace,94.0
+403,Lee Vining,95.0
+472,Mgr'S Off,95.0
+507,N Palm Springs,96.0
+617,Redway,96.0
+35,Artesia,97.0
+402,Lebec,97.0
+256,Firebaugh,98.0
+726,Sun Valley,98.0
+334,Hughson,100.0
+528,Oak View,101.0
+416,Live Oak,101.0
+112,California City,102.0
+553,Pacific Grove,103.0
+408,Leucadia,103.0
+206,Desert Shores,103.0
+380,La Quinta,103.0
+791,Westwood,103.0
+562,Palo Alto,104.0
+800,Willow Creek,104.0
+143,Cayucos,104.0
+564,Palo Verde,105.0
+432,Los Alamos,106.0
+723,Suite A,106.0
+777,Wasco,107.0
+204,Desert Center,107.0
+621,Reseda,108.0
+47,Baker,109.0
+431,Los Alamitos,109.0
+400,Lawndale,110.0
+39,Auberry,112.0
+181,Cotati,112.0
+809,Woodbridge,113.0
+738,Terra Bella,113.0
+242,Empire,114.0
+418,Livingston,114.0
+683,Santa Ysabel,114.0
+779,Waterford,115.0
+354,Jamul,115.0
+305,Gustine,115.0
+191,Crowley Lake,115.0
+365,Kerman,116.0
+194,Culver City,117.0
+675,Santa Fe Springs,118.0
+226,Dunsmuir,118.0
+807,Winton,119.0
+203,Denair,120.0
+177,Corcoran,120.0
+414,Little River,120.0
+409,Lewiston,122.0
+619,Redwood Valley,122.0
+688,Seal Beach,125.0
+357,Joshua Tree,126.0
+781,Weaverville,127.0
+549,Orosi,128.0
+314,Havasu Lake,128.0
+504,Murrieta,128.0
+438,Lost Hills,128.0
+598,Portola,128.0
+570,Patterson,128.0
+170,Colfax,130.0
+235,El Dorado Hills,131.0
+731,Taft,132.0
+774,Walnut,133.0
+583,Pine Grove,135.0
+625,Rio Vista,137.0
+300,Groveland,137.0
+699,Shingle Springs,138.0
+435,Los Gatos,139.0
+358,Julian,139.0
+519,Nice,140.0
+224,Dunlap,140.0
+221,Duarte,141.0
+760,Upper Lake,142.0
+782,Weed,143.0
+498,Moss Landing,145.0
+643,S San Francisco,145.0
+802,Wilmington,146.0
+228,East Palo Alto,146.0
+208,Diamond Bar,147.0
+244,Escalon,148.0
+378,La Mirada,150.0
+281,Gasquet,153.0
+495,Morongo Valley,154.0
+26,Antelope,154.0
+455,Mariposa,155.0
+737,Templeton,156.0
+428,Lone Pine,160.0
+573,Penn Valley,161.0
+0,,163.0
+44,Avila Beach,163.0
+182,Cottonwood,166.0
+764,Valley Springs,168.0
+525,Northridge,168.0
+87,Boron,169.0
+433,Los Angeles,169.0
+198,Dana Point,169.0
+301,Grover Beach,170.0
+121,Cameron Park,170.0
+499,Mount Laguna,170.0
+331,Holtville,173.0
+450,Mammoth Lakes,174.0
+105,Burney,174.0
+163,Cloverdale,175.0
+690,Sebastopol,177.0
+327,Hilmar,178.0
+620,Reedley,179.0
+421,Lockeford,181.0
+685,Saugus,182.0
+503,Murphys,183.0
+173,Colusa,183.0
+647,Salton City,185.0
+430,Loomis,185.0
+382,Laguna Beach,185.0
+706,Soledad,186.0
+584,Pioneer,186.0
+611,Rancho Murieta,189.0
+218,Downey,190.0
+249,Exeter,190.0
+10,Acampo,192.0
+366,Kernville,194.0
+111,Calexico,196.0
+500,Mount Shasta,197.0
+789,Westlake Village,197.0
+694,Shafter,198.0
+188,Crestline,198.0
+489,Montebello,199.0
+812,Woodland Hills,199.0
+649,San Andreas,200.0
+241,Elk Grove,202.0
+159,Clayton,203.0
+786,West Hills,203.0
+167,Coarsegold,203.0
+707,Solvang,204.0
+225,Dunnigan,213.0
+442,Lucerne,214.0
+23,Angels Camp,218.0
+15,Agoura,220.0
+18,Alpine,222.0
+396,Lamont,224.0
+110,Calabasas,224.0
+370,Kingsburg,224.0
+808,Wofford Heights,224.0
+11,Acton,225.0
+736,Temecula,225.0
+497,Moss Beach,227.0
+36,Arvin,228.0
+704,Smith River,229.0
+342,Idyllwild,229.0
+515,Newcastle,231.0
+516,Newhall,231.0
+524,North Hollywood,231.0
+604,Quincy,234.0
+412,Lindsay,235.0
+635,Rosemead,235.0
+543,Orcutt,235.0
+743,Topanga,236.0
+172,Columbia,238.0
+713,South Gate,239.0
+485,Monrovia,239.0
+492,Moorpark,240.0
+484,Mojave,242.0
+666,San Pedro,242.0
+123,Campbell,243.0
+98,Brentwood,245.0
+293,Granite Bay,246.0
+627,Riverbank,247.0
+315,Hawaiian Gardens,247.0
+739,Thermal,247.0
+350,Isleton,249.0
+70,Big Bear City,250.0
+696,Shasta Lake,251.0
+383,Laguna Hills,252.0
+436,Los Molinos,253.0
+476,Midway City,255.0
+104,Buena Park,256.0
+530,Oakhurst,257.0
+12,Adelanto,257.0
+645,Saint Helena,259.0
+785,West Covina,265.0
+65,Benicia,266.0
+469,Mentone,272.0
+49,Baldwin Park,275.0
+727,Sunland,275.0
+292,Grand Terrace,276.0
+149,Cherry Valley,278.0
+166,Coalinga,283.0
+161,Clearlake Oaks,284.0
+669,San Ysidro,288.0
+351,Jackson,289.0
+815,Yorba Linda,290.0
+447,Madera,292.0
+482,Mission Hills,294.0
+266,Fortuna,295.0
+389,Lake Isabella,298.0
+71,Big Bear Lake,298.0
+211,Dinuba,301.0
+262,Foresthill,302.0
+103,Buellton,308.0
+546,Orland,309.0
+201,Delano,310.0
+139,Castro Valley,310.0
+816,Yountville,317.0
+137,Castaic,322.0
+140,Castroville,330.0
+532,Oakley,331.0
+399,Lathrop,333.0
+255,Fillmore,335.0
+195,Cypress,340.0
+277,Galt,343.0
+817,Yreka,344.0
+264,Fort Bragg,344.0
+96,Brawley,344.0
+741,Thousand Oaks,344.0
+377,La Mesa,345.0
+776,Warner Springs,345.0
+329,Hollister,346.0
+434,Los Banos,346.0
+285,Gilroy,349.0
+749,Truckee,351.0
+178,Corning,360.0
+554,Pacific Palisades,360.0
+510,National City,362.0
+165,Coachella,362.0
+693,Selma,366.0
+592,Pleasanton,371.0
+267,Fountain Valley,374.0
+27,Antioch,379.0
+670,Sanger,380.0
+735,Tehachapi,383.0
+729,Susanville,384.0
+386,Lake Elsinore,386.0
+57,Beaumont,387.0
+763,Valley Center,387.0
+406,Lemoore,392.0
+468,Menifee,392.0
+642,S El Monte,392.0
+667,San Rafael,397.0
+37,Atascadero,398.0
+454,Marina,399.0
+368,King City,400.0
+542,Orangevale,402.0
+580,Pico Rivera,405.0
+799,Willits,407.0
+61,Bell Gardens,412.0
+652,San Clemente,413.0
+193,Cudahy,415.0
+586,Pismo Beach,416.0
+309,Half Moon Bay,420.0
+209,Diamond Springs,421.0
+567,Parker Dam,424.0
+556,Pacoima,426.0
+67,Bethel Island,426.0
+804,Windsor,437.0
+526,Norwalk,441.0
+533,Oceano,443.0
+417,Livermore,443.0
+496,Morro Bay,452.0
+631,Rocklin,454.0
+306,Hacienda Heights,456.0
+81,Blythe,459.0
+595,Pollock Pines,460.0
+462,Mckinleyville,467.0
+575,Perris,469.0
+529,Oakdale,479.0
+126,Canyon Country,485.0
+689,Seaside,488.0
+437,Los Osos,493.0
+79,Bloomington,496.0
+197,Daly City,501.0
+30,Aptos,503.0
+375,La Habra,510.0
+639,Rowland Heights,515.0
+479,Milpitas,521.0
+636,Roseville,522.0
+426,Lomita,525.0
+687,Scotts Valley,529.0
+521,Niland,529.0
+425,Loma Linda,530.0
+199,Davis,531.0
+348,Ione,534.0
+746,Tracy,536.0
+311,Hanford,545.0
+160,Clearlake,550.0
+153,Chino,554.0
+449,Malibu,561.0
+608,Rancho Cordova,561.0
+756,Twentynine Palms,568.0
+765,Van Nuys,569.0
+353,Jamestown,570.0
+795,Whittier,583.0
+239,El Toro,585.0
+511,Needles,586.0
+45,Azusa,588.0
+589,Placentia,595.0
+506,N Highlands,602.0
+607,Ramona,616.0
+811,Woodland,617.0
+32,Arcata,618.0
+38,Atwater,628.0
+750,Tulare,629.0
+243,Encinitas,631.0
+154,Chino Hills,632.0
+148,Chatsworth,638.0
+289,Goleta,650.0
+387,Lake Forest,653.0
+527,Novato,654.0
+514,Newbury Park,666.0
+590,Placerville,670.0
+115,Calistoga,675.0
+714,South Lake Tahoe,678.0
+587,Pittsburg,679.0
+129,Capitola,679.0
+22,Anderson,691.0
+601,Poway,696.0
+752,Turlock,706.0
+392,Lakeport,712.0
+231,Eastvale,716.0
+665,San Pablo,718.0
+612,Red Bluff,721.0
+364,Kelseyville,725.0
+487,Montclair,728.0
+55,Bay Point,728.0
+271,Fremont,732.0
+125,Canoga Park,732.0
+452,Manteca,734.0
+712,Soquel,739.0
+325,Hesperia,741.0
+227,Earp,742.0
+286,Glendora,743.0
+552,Pacheco,744.0
+753,Tustin,744.0
+248,Eureka,768.0
+820,Yucca Valley,772.0
+680,Santa Paula,775.0
+458,Marysville,776.0
+569,Paso Robles,778.0
+186,Crescent City,781.0
+251,Fallbrook,791.0
+518,Newport Beach,795.0
+725,Sun City,802.0
+703,Simi Valley,808.0
+88,Borrego Springs,813.0
+276,Fullerton,815.0
+494,Morgan Hill,817.0
+610,Rancho Mirage,817.0
+470,Merced,828.0
+618,Redwood City,834.0
+20,American Canyon,843.0
+250,Fairfield,851.0
+537,Ojai,860.0
+133,Carpinteria,860.0
+759,Upland,865.0
+615,Redlands,865.0
+164,Clovis,867.0
+379,La Puente,871.0
+493,Moreno Valley,872.0
+576,Petaluma,874.0
+711,Sonora,874.0
+257,Folsom,875.0
+185,Covina,884.0
+427,Lompoc,887.0
+34,Arroyo Grande,889.0
+349,Irvine,893.0
+758,Union City,896.0
+423,Lodi,905.0
+654,San Dimas,906.0
+145,Ceres,949.0
+97,Brea,952.0
+180,Costa Mesa,953.0
+171,Colton,958.0
+50,Banning,981.0
+77,Bishop,994.0
+40,Auburn,1006.0
+119,Camarillo,1008.0
+661,San Leandro,1023.0
+818,Yuba City,1036.0
+559,Palm Desert,1064.0
+623,Ridgecrest,1078.0
+313,Harbor City,1084.0
+757,Ukiah,1086.0
+761,Vacaville,1090.0
+597,Porterville,1105.0
+326,Highland,1119.0
+710,Sonoma,1119.0
+502,Mountain View,1130.0
+131,Carlsbad,1141.0
+233,El Centro,1159.0
+780,Watsonville,1169.0
+541,Orange,1172.0
+660,San Juan Capistrano,1216.0
+762,Vallejo,1244.0
+769,Victorville,1248.0
+294,Grass Valley,1272.0
+53,Barstow,1296.0
+718,Stanton,1301.0
+771,Visalia,1312.0
+633,Rohnert Park,1316.0
+788,West Sacramento,1325.0
+114,Calimesa,1337.0
+609,Rancho Cucamonga,1356.0
+345,Indio,1364.0
+179,Corona,1381.0
+672,Santa Barbara,1388.0
+280,Gardena,1389.0
+175,Concord,1412.0
+566,Paramount,1418.0
+62,Bellflower,1423.0
+258,Fontana,1423.0
+29,Apple Valley,1427.0
+745,Torrance,1442.0
+716,Spring Valley,1483.0
+279,Garden Grove,1489.0
+646,Salinas,1497.0
+634,Rosamond,1500.0
+236,El Monte,1514.0
+662,San Luis Obispo,1581.0
+565,Paradise,1586.0
+509,Napa,1608.0
+550,Oroville,1620.0
+730,Sylmar,1697.0
+596,Pomona,1706.0
+381,La Verne,1754.0
+174,Compton,1769.0
+656,San Jacinto,1846.0
+158,Citrus Heights,1886.0
+772,Vista,1927.0
+151,Chico,1957.0
+394,Lakeside,1972.0
+622,Rialto,1981.0
+429,Long Beach,2001.0
+141,Cathedral City,2012.0
+540,Ontario,2017.0
+674,Santa Cruz,2026.0
+561,Palmdale,2098.0
+673,Santa Clarita,2110.0
+677,Santa Maria,2201.0
+134,Carson,2238.0
+766,Ventura,2244.0
+684,Santee,2310.0
+560,Palm Springs,2351.0
+318,Hayward,2397.0
+534,Oceanside,2438.0
+614,Redding,2569.0
+719,Stockton,2662.0
+551,Oxnard,2787.0
+483,Modesto,2866.0
+790,Westminster,2886.0
+335,Huntington Beach,2909.0
+205,Desert Hot Springs,3277.0
+21,Anaheim,3542.0
+157,Chula Vista,3566.0
+663,San Marcos,3590.0
+681,Santa Rosa,3758.0
+651,San Bernardino,3861.0
+728,Sunnyvale,3920.0
+671,Santa Ana,3977.0
+245,Escondido,4042.0
+629,Riverside,4159.0
+397,Lancaster,4177.0
+274,Fresno,4192.0
+819,Yucaipa,4557.0
+48,Bakersfield,4665.0
+653,San Diego,4747.0
+232,El Cajon,5359.0
+644,Sacramento,6729.0
+322,Hemet,6987.0
+658,San Jose,10667.0
